@@ -1,16 +1,8 @@
-# cooking
+# Resep Makanan
 
-A new Flutter project.
+Anggota Kelompok 14:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nurul Khafifah Hamrun (2211102441078)
+Andi Akbar Soleh (2211102441096)
+Andi Ryan Pramadana Putra (2211102441084)
+M. Nur Bahri (2211102441122)
